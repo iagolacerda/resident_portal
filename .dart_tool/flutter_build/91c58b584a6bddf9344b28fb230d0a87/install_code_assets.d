@@ -1,0 +1,1 @@
+ /Users/iago.santos/Projects/resident_portal/.dart_tool/flutter_build/91c58b584a6bddf9344b28fb230d0a87/native_assets.json: 
